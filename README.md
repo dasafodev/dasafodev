@@ -4,7 +4,7 @@ Web and Mobile Developer. Entrepreneur dedicated to improve and adapt to the nee
 - 🔭 I’m currently working on Kuppo.co
 - 🌱 I’m currently learning React and Flutter
 
-My coding time this week 💻
+My coding time the last week 💻
 <!--START_SECTION:waka-->
 ```text
 Week: 25 January, 2021 - 01 February, 2021
