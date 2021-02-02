@@ -3,3 +3,5 @@ Web and Mobile Developer. Entrepreneur dedicated to improve and adapt to the nee
 
 - 🔭 I’m currently working on Kuppo.co
 - 🌱 I’m currently learning React and Flutter
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
