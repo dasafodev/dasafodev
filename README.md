@@ -4,4 +4,9 @@ Web and Mobile Developer. Entrepreneur dedicated to improve and adapt to the nee
 - 🔭 I’m currently working on Kuppo.co
 - 🌱 I’m currently learning React and Flutter
 <!--START_SECTION:waka-->
+```text
+HTML   1 hr 34 mins    ████████████▒░░░░░░░░░░░░   49.04 % 
+Dart   1 hr 26 mins    ███████████▒░░░░░░░░░░░░░   44.82 % 
+YAML   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+```
 <!--END_SECTION:waka-->
