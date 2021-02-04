@@ -7,7 +7,7 @@ Web and Mobile Developer. Entrepreneur dedicated to improve and adapt to the nee
 My coding time the last week 💻
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2021 - 02 February, 2021
+Week: 27 January, 2021 - 03 February, 2021
 
 HTML         3 hrs 31 mins   ████████████▓░░░░░░░░░░░░   50.69 % 
 Dart         2 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   31.15 % 
